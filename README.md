@@ -28,7 +28,18 @@ The files are in [CoNNL-U](https://universaldependencies.org/format.html) format
 
 Citation:
 ---------
-The annotation was conducted at the Hebrew University of Jerusalem. A citation will be provided following the publication of the paper, meanwhile please refer to this reprosotiy.
+```
+@inproceedings{arviv2021relation,
+    title = "On the Relation between Syntactic Divergence and Zero-Shot Performance",
+    author = "Ofir Arviv and Dmitry Nikolaev and Taelin Karidi and Omri Abend",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2021",
+    publisher = "Association for Computational Linguistics",
+    url = "https://arxiv.org/abs/2110.04644",
+}
+```
+
 
 
 Licensing:
